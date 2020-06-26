@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  Flash Cubes
+
+  Created by Jeffrey Thompson on 6/12/19.
+  Copyright © 2019 Jeffrey Thompson. All rights reserved.
+*/
+
+"firebaseFolder" = "Japanese";
+
+"Connection timeout" = "?????";
+"Purchase failed." = "????";
+"Maximum amount of Flash Cubes to learn at once:" = "一度に学習できるFlash Cubeの最大数：";
+"Download" = "ダウンロード";
+"Buy" = "購入";
+"Categories" = "カテゴリ";
+"Finished set of new Flash Cubes.  Keep going?" = "新しいFlash Cubeのセットは完成しました。これからも続けますか？";
+"Great job!" = "素晴らしい仕事だ";
+"Guess for" = "推測";
+"Begin" = "開始";
+"Prompts" = "提案";
+"Date" = "日付";
+"Add secondary prompt if desired" = "必要に応じて2番目の提案を追加します";
+"Loading" = "アップロード中";
+"Saving" = "保存する";
+"Proficiency" = "習熟度";
+"Retention" = "短期記憶";
+"Review deck" = "フラッシュキューブのレビュー";
+"Add text here" = "ここにテキストを入力";
+"Must have at least two sides" = "少なくとも2つの側面が必要です";
+
+
+"Audio playback speed:" = "オーディオ再生速度：";
+"Cancel" = "キャンセル";
+"Continue" = "続行";
+"Delete" = "削除";
+"Flash Cube will be permenantly deleted!" = "Flash Cubeは永久に削除されます！";
+"All deck data will be permenantly deleted!" = "すべてのデッキデータは永久に削除されます！";
+"Prompt will be deleted" = "この提案は削除されます";
+"Error" = "エラー";
+"Free" = "無料";
+
+
+"Must enter a deck name" = "新しいセットの名前を入力する必要があります";
+"Must enter title for each prompt" = "各面に名前を付ける必要があります";
+"Enter new cube name" = "Flash Cubeの新しい名前を入力してください";
+"New deck name" = "新しいフラッシュキューブ名";
+"Great job!  You learned a new set of FLash Cubes.  Keep going?" = "グッド！あなたはいくつかの新しいフラッシュキューブを学びました。続けますか？";
+"No two prompts can have the same title" = "面に同じ名前を付けることはできません";
+"No name" = "名前なし";
+"Notice:" = "備考:";
+"The Flash Cubes in your deck do not have the prompts requested." = "セット内のFlash Cubeに提案はありません。";
+"OK" = "はい";
+"Great job!  All of the due Flash Cubes have been reviewed.  Keep going?" = "グッド！あなたは再びフラッシュキューブのすべてのニーズを学びました。続けますか？";
+"Data will be overwritten." = "データは上書きされます。";
+"Question and answer prompts cannot be the same." = "選択肢が重複していません";
+
+
+"Quit" = "やめる";
+"Quit reviewing?" = "レビューを終了しますか";
+"Time to review the following decks!" = "次のデッキを見直す時が来ました！";
+"Save" = "保存";
+"Save new deck" = "新しいデッキを保存";
+"Sort by:" = "並べ替え：";
+"Due date ascending" = "期日の昇順";
+"Due date descending" = "期日の降順 ";
+"Name ascending" = "デッキ名の昇順 ";
+"Name descending" = "デッキ名の降順 ";
+"Proficiency ascending" = "熟練度の昇順";
+"Proficiency descending" = "熟練度の降順";
+"Retention ascending" = "保持昇順";
+"Retention descending" = "保持降順";
+"Warning" = "警告";

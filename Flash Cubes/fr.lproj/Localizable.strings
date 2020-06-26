@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  Flash Cubes
+
+  Created by Jeffrey Thompson on 6/12/19.
+  Copyright © 2019 Jeffrey Thompson. All rights reserved.
+*/
+
+"firebaseFolder" = "French";
+
+"Restore purchases" = "Restaurer les achats";
+
+"Connection timeout" = "Délai de connection dépassé";
+"Purchase failed." = "Échec de l'achat";
+"Maximum amount of Flash Cubes to learn at once:" = "Quantité maximale de Flash Cubes à apprendre simultanément";
+"Download" = "Télécharger";
+"Buy" = "Achat";
+"Categories" = "Catégories";
+"Finished set of new Flash Cubes.  Keep going?" = "Ensemble de nouveaux Flash Cubes terminé.  Continue?";
+"Great job!" = "Félicitations";
+"Guess for" = "Devinez";
+"Begin" = "Continuez";
+"Prompts" = "Instructions";
+"Date" = "Date";
+"Add secondary prompt if desired" = "Ajouter une instruction secondaire si vous le souhaitez";
+"Loading" = "Téléchargement ";
+"Saving" = "Sauvegarder";
+"Proficiency" = "Compétence ";
+"Retention" = " Rétention";
+"Review deck" = "Révision Flash Cube";
+"Add text here" = "Ajouter un texte ";
+"Must have at least two sides" = "Minimum 2 côtés";
+"Audio playback speed:" = "Vitesse de lecture:";
+"Buy" = "Achat";
+"Cancel" = "Annuler";
+"Continue" = "Continuer";
+"Delete" = "Effacer";
+"Flash Cube will be permenantly deleted!" = "Flash Cube sera définitivement effacé !";
+"All deck data will be permenantly deleted!" = "Toutes les données seront définitivement supprimées!";
+"Prompt will be deleted" = "Instructions sera effacé";
+"Error" = "Erreur";
+"Free" = "Gratuit";
+"Must enter a deck name" = "Veuillez entrer un nom";
+"Must enter title for each prompt" = "Veuillez entrer un titre pour chaque face";
+"Enter new cube name" = "Veuillez entrer un nouveau nom";
+"New deck name" = "Nouveau nom de la partie";
+"Great job!  You learned a new set of FLash Cubes.  Keep going?" = "Félicitations! Vous avez appris un nouveau jeu de flash cubes. Continuez?";
+"No two prompts can have the same title" = "Deux parties ne peuvent avoir le même titre";
+"No name" = "Pas de nom";
+"Notice:" = "Remarque:";
+"The Flash Cubes in your deck do not have the prompts requested." = "Les Flash Cubes sur votre bureau n'ont pas les instructions demandées.";
+"OK" = "Ok";
+"Great job!  All of the due Flash Cubes have been reviewed.  Keep going?" = "Félicitations ! Toutes les cartes ont été révisées. Continuez?";
+"Data will be overwritten." = "Les données seront écrasées";
+"Question and answer prompts cannot be the same." = "Les questions-réponses ne peuvent pas être identiques";
+"Quit" = "Stop";
+"Quit reviewing?" = "Arrêter les révisions?";
+"Time to review the following decks!" = "Révision des cartes suivantes!";
+"Save" = "Enregistrer ";
+"Save new deck" = "Enregistrer la nouvelle partie";
+"Sort by:" = "Classer par:";
+"Due date ascending" = "Arrêter la révision";
+"Due date descending" = "Date d'échéance décroissante";
+"Name ascending" = " Nom croissant ";
+"Name descending" = "Nom décroissant ";
+"Proficiency ascending" = "Augmentation du niveau de compétence";
+"Proficiency descending" = "Diminution du niveau de compétence";
+"Retention ascending" = "Augmentation de la mémorisation";
+"Retention descending" = "Diminution de la mémorisation";
+"Warning" = "Attention";

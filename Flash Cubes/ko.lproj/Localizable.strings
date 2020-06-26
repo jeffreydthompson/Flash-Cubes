@@ -1,0 +1,69 @@
+/* 
+  Localizable.strings
+  Flash Cubes
+
+  Created by Jeffrey Thompson on 6/12/19.
+  Copyright © 2019 Jeffrey Thompson. All rights reserved.
+*/
+
+"firebaseFolder" = "Korean";
+
+"Maximum amount of Flash Cubes to learn at once:" = "한 번에 학습 할 수있는 최대 플래시 큐브 수 :";
+"Download" = "다운로드";
+"Buy" = "구입하다";
+"Categories" = "카테고리";
+"Finished set of new Flash Cubes.  Keep going?" = "새로운 플래시 큐브를 완성했습니다. 계속 하시겠습니까?";
+"Great job!" = "잘 했어!";
+"Guess for" = "추측하다";
+"Begin" = "시작";
+"Prompts" = "제안";
+"Date" = "날짜";
+"Add secondary prompt if desired" = "원하는 경우 두 번째 제안 추가";
+"Loading" = "로드 중";
+"Saving" = "저장 중";
+"Proficiency" = "숙련도";
+"Retention" = "보존";
+"Review deck" = "플래시 큐브 검토";
+"Add text here" = "여기에 텍스트 추가";
+"Must have at least two sides" = "적어도 두면이 있어야합니다";
+"Audio playback speed:" = "오디오 재생 속도:";
+
+"Cancel" = "취소";
+"Continue" = "계속";
+"Delete" = "삭제";
+"Flash Cube will be permenantly deleted!" = "플래시 큐브가 영구 삭제됩니다!";
+"All deck data will be permenantly deleted!" = "모든 데크 데이터가 영구 삭제됩니다!";
+"Prompt will be deleted" = "이 제안은 삭제됩니다";
+"Error" = "오류";
+"Free" = "무료";
+"Must enter a deck name" = "새 세트의 이름을 입력해야합니다";
+"Must enter title for each prompt" = "각 얼굴의 이름이 있어야합니다";
+"Enter new cube name" = "새 플래시 큐브 이름 입력";
+
+"New deck name" = "새 데크 이름";
+"Great job!  You learned a new set of Flash Cubes.  Keep going?" = "좋아, 새로운 플래시 큐브를 배웠다. 계속 하시겠습니까?";
+"No two prompts can have the same title" = "얼굴은 같은 이름을 가질 수 없습니다.";
+"No name" = "이름 없음";
+"Notice:" = "알림:";
+"The Flash Cubes in your deck do not have the prompts requested." = "플래시 큐브 는 게임을 시작하기 전에 프롬프트를 띄웁니다.";
+"OK" = "좋아";
+"Great job!  All of the due Flash Cubes have been reviewed.  Keep going?" = "좋아, 플래시 큐브의 모든 요구 사항을 다시 배웠습니다. 계속 하시겠습니까?";
+
+"Data will be overwritten." = "데이터를 덮어 씁니다.";
+"Question and answer prompts cannot be the same." = "선택 사항이 중복되지 않습니다";
+"Quit" = "정지";
+"Quit reviewing?" = "검토 중지 하시겠습니까?";
+"Time to review the following decks!" = "다음의 덱을 검토 할 시간!";
+"Save" = "저장";
+"Save new deck" = "새 데크 저장";
+"Sort by:" = "정렬 기준:";
+"Due date ascending" = "만기일 오름차순";
+"Due date descending" = "만기일 내림차순";
+"Name ascending" = "갑판 이름 오름차순";
+"Name descending" = "갑판 이름 내림차순";
+"Proficiency ascending" = "숙련도 오름차순";
+"Proficiency descending" = "숙련도 내림차순";
+"Retention ascending" = "유지 오름차순";
+"Retention descending" = "유지 내림차순";
+"Warning" = "경고";
+

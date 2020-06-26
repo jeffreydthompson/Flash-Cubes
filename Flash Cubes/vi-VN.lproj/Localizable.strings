@@ -1,0 +1,112 @@
+/* 
+  Localizable.strings
+  Flash Cubes
+
+  Created by Jeffrey Thompson on 6/12/19.
+  Copyright © 2019 Jeffrey Thompson. All rights reserved.
+*/
+
+"firebaseFolder" = "Vietnamese";
+"Allow Flash Cubes to record audio through device microphone." = "Cho phép Flash Cubes dùng micrô của thiết bị bạn để thâu âm.";
+"Allow Flash Cubes to load images from device library." = "Cho phép Flash Cubes tải hình từ thư viện hình ảnh của bạn.";
+
+"Restore purchases" = "Hồi phục tài liệu đã mua";
+
+//"Add / edit Flash Cubes"
+//"Add new"
+//"Add another side"
+"Connection timeout" = "Lỗi kết nối hết hạn.";
+"Purchase failed." = "Có lỗi.  Không mua được";
+"Maximum amount of Flash Cubes to learn at once:" = "Số Flash Cubes mới nhiều nhất sẽ học cùng một lúc:";
+"Download" = "Tải về";
+"Buy" = "Mua";
+"Categories" = "Danh mục";
+"Finished set of new Flash Cubes.  Keep going?" = "Đã học một số Flash Cube mới.  Tiếp tục?";
+"Great job!" = "Hay Lắm";
+"Guess for" = "Hãy đoán cho";
+"Begin" = "Bắt đầu";
+"Prompts" = "Các gợi ý";
+"Date" = "Ngày";
+"Add secondary prompt if desired" = "Thêm gợi ý thứ nhì nếu muốn";
+"Loading" = "Đang tải";
+"Saving" = "Đang lưu";
+"Proficiency" = "Mức thành thạo";
+"Retention" = "Mức nhớ ngắn hạn";
+"Review deck" = "Ôn lại bộ Flash Cube";
+"Add text here" = "Điền chữ đây";
+"Must have at least two sides" = "Phải có ít nhất hai mặt";
+//"Audio"
+"Audio playback speed:" = "Tốc độ âm thanh:";
+// "Audio prompt"
+// "Average proficiency:"
+"Buy" = "Mua";
+"Cancel" = "Hủy";
+//"Unable to save at this time"
+//"Choose review prompts"
+"Continue" = "Tiếp tục";
+//"Create the sides of "
+//"Deck overview"
+"Delete" = "Xóa";
+"Flash Cube will be permenantly deleted!" = "Flash Cube này sẽ bị xóa vĩnh viễn!";
+"All deck data will be permenantly deleted!" = "Tất cả dữ liệu của bộ Flash Cubes này sẽ bị xóa vĩnh viễn!";
+"Prompt will be deleted" = "Gợi ý này sẽ bị xóa";
+"Error" = "Lỗi";
+//"Flash Cubes"
+"Free" = "Miễn phí";
+//"Great job,"
+//"Image"
+//"Image prompt"
+//"Select audio and you will be able to record and play back any sound."
+//"Select image to be able to load an image from your photo library."
+//"Select text and you can type in any language your device supports."
+//"Keep going"
+//"Latest review:"
+//"You learned "
+//" new words."
+"Must enter a deck name" = "Phải nhập tên cho bộ mới";
+"Must enter title for each prompt" = "Phải có tên cho mỗi mặt";
+// "Never"
+"Enter new cube name" = "Nhập tên mới cho Flash Cube";
+//"New deck"
+//"A Flash Cube side is just like the side of a flash card.  Add whatever it is you would like to learn."
+//"Make up to six sides, any combination you like."
+//"Slide entry to the left to delete."
+"New deck name" = "Tên mới của bộ Flash Cube";
+"Great job!  You learned a new set of Flash Cubes.  Keep going?" = "Hay lắm! Bạn đã học một số Flash Cube mới. Tiếp tục?";
+"No two prompts can have the same title" = "Các mặt không được có cùng tên";
+"No name" = "Không có tên";
+"Notice:" = "Lưu ý:";
+"The Flash Cubes in your deck do not have the prompts requested." = "Các Flash Cube trong bộ không có các gợi ý đã yêu cầu.";
+//"Number of cubes:"
+"OK" = "Được";
+"Great job!  All of the due Flash Cubes have been reviewed.  Keep going?" = "Hay lắm! Bạn đã học lại hết các Flash Cube cần ôn lại. Tiếp tục?";
+//"Changes made to deck will be permanent."
+"Data will be overwritten." = "Dư liệu sẽ xóa và sẽ lưu dư liệu mới.";
+"Question and answer prompts cannot be the same." = "Các lựa chọn không được trùng lập";
+//"Primary and secondary prompts cannot be the same."
+//"Enter data for two or more prompts"
+"Quit" = "Ngừng";
+"Quit reviewing?" = "Ngừng ôn lại?";
+//"You remastered "
+//" previously learned words."
+"Time to review the following decks!" = "Cần ôn lại các bộ Flash Cube sau đây!";
+//"Begin deck review"
+"Save" = "Lưu";
+//"Save Flash Cube"
+"Save new deck" = "Lưu bộ Flash Cube mới";
+//"Side "
+"Sort by:" = "Sắp xếp:";
+"Due date ascending" = "Ngày hạn ôn lại tăng dần";
+"Due date descending" = "Ngày hạn ôn lại giảm dần";
+"Name ascending" = "Tên bộ Flash Cube tăng dần";
+"Name descending" = "Tên bộ Flash Cube giảm dần";
+"Proficiency ascending" = "Mức thành thạo tăng dần";
+"Proficiency descending" = "Mức thành thạo giảm dần";
+"Retention ascending" = "Mức nhớ ngắn hạn tăng dần";
+"Retention descending" = "Mức nhớ ngắn hạn giảm dần";
+//"Stop for now"
+//"Text"
+//"Add a title: eg. French audio"
+//"Text prompt"
+// "Must have a title for each side"
+"Warning" = "Lưu ý";

@@ -1,0 +1,69 @@
+/* 
+  Localizable.strings
+  Flash Cubes
+
+  Created by Jeffrey Thompson on 6/12/19.
+  Copyright © 2019 Jeffrey Thompson. All rights reserved.
+*/
+
+"firebaseFolder" = "Japanese";
+
+"Restore purchases" = "購入を復元";
+
+"Connection timeout" = "接続時間切れ";
+"Purchase failed." = "獲得不可";
+"Maximum amount of Flash Cubes to learn at once:" = "一回に学習できるFlash Cube(フラッシュキューブ)の最大数";
+"Download" = "ダウンロード";
+"Buy" = "購入";
+"Categories" = "カテゴリー";
+"Finished set of new Flash Cubes. Keep going?" = "新しいFlashCube(フラッシュキューブ)の設定は完了しました。このまま続けますか？";
+"Great job!" = "素晴らしい！";
+"Guess for" = "推測";
+"Begin" = "開始";
+"Prompts" = "ヒント";
+"Date" = "日付";
+"Add secondary prompt if desired" = "次のヒントを追加(必要なら)";
+"Loading" = "アップロード中";
+"Saving" = "保存中";
+"Proficiency" = "上達度";
+"Retention" = "記憶度";
+"Review deck" = "セットの復習";
+"Add text here" = "ここにテキストを入力";
+"Must have at least two sides" = "最低でも二ヶ所は必須";
+"Audio playback speed:" = "オーディオ再生速度";
+"Cancel" = "キャンセル";
+"Continue" = "続行";
+"Delete" = "削除";
+"Flash Cube will be permenantly deleted!" = "Flash Cube(フラッシュキューブ)は永久に削除されます!";
+"All deck data will be permenantly deleted!" = "すべてのデータは永久に削除されます！";
+"Prompt will be deleted" = "タスクは削除されます。";
+"Error" = "エラー";
+"Free" = "無料";
+"Must enter a deck name" = "新しいセット名を入力する必要があります。";
+"Must enter title for each prompt" = "各タスクに名前を付ける必要があります。";
+"Enter new cube name" = "Flash Cube(フラッシュキューブ)の新しい名前を入力してください。";
+"New deck name" = "新しいセット名";
+"Great job! You learned a new set of FLash Cubes. Keep going?" = "すばらしい！あなたは新しいFlash Cubes(フラッシュキューブ)の学習を終えました。続けますか？";
+"No two prompts can have the same title" = "二つのタスクに同じ名前を付けることはできません。";
+"No name" = "名前なし";
+"Notice:" = "備考";
+"The Flash Cubes in your deck do not have the prompts requested." = "Flash Cube(フラッシュキューブ)にリクエストされたタスクはありません。";
+"OK" = "OK";
+"Great job! All of the due Flash Cubes have been reviewed. Keep going?" = "すばらしい！あなたは全フラッシュキューブの復習を終えました。続けますか？";
+"Data will be overwritten." = "データは上書きされます。";
+"Question and answer prompts cannot be the same." = "質問と回答が一致しません。";
+"Quit" = "終了する。";
+"Quit reviewing?" = "レビューを終了しますか？";
+"Time to review the following decks!" = "続きのセットを見ることができます！";
+"Save" = "保存";
+"Save new deck" = "新しいセットを保存";
+"Sort by:" = "並べ替え：";
+"Due date ascending" = "期日の昇順";
+"Due date descending" = "期日の降順 ";
+"Name ascending" = "セット名の昇順 ";
+"Name descending" = "セット名の降順 ";
+"Proficiency ascending" = "上達度の昇順";
+"Proficiency descending" = "上達度の降順";
+"Retention ascending" = "記憶度の昇順";
+"Retention descending" = "記憶度の降順";
+"Warning" = "警告";
