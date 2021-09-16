@@ -7,14 +7,15 @@ Flash Cubes education app
 * [Setup](#setup)
 
 ## General info
-This project is an education app that employs the [Anki](https://en.wikipedia.org/wiki/Anki_(software)) learning technique.  Competitor software creates flashcards which challenges a learner to recall the opposite of a given promopt.  This app offers several prompts to enhance the learning experience.  A picture can be a prompt to recall a sound, or a character, or phrase.  Or vice versa.  As a learner improves, they can go from easy recall prompts to more difficult to solidify the memory associations created.
+This project is an education app that employs the [Anki](https://en.wikipedia.org/wiki/Anki_(software)) learning technique.  Competitor software creates flashcards which challenges a learner to recall the opposite of a given prompt.  This app offers several prompts to enhance the learning experience.  A picture can be a prompt to recall a sound, or a character, or phrase.  Or vice versa.  As a learner improves, they can go from easy recall prompts to more difficult to solidify the memory associations created.
 	
-[Preview](https://firebasestorage.googleapis.com/v0/b/flash-cubes.appspot.com/o/FlashCubesAppPreview5.5.mp4?alt=media&token=fca580d1-d544-4baf-bb6b-0d2902ef43c5)
+[Preview video](https://firebasestorage.googleapis.com/v0/b/flash-cubes.appspot.com/o/FlashCubesAppPreview5.5.mp4?alt=media&token=fca580d1-d544-4baf-bb6b-0d2902ef43c5)
   
 ## Technologies
 Project is created with:
 * XCode 10
 * Swift 5
+* UIKit
 * Firebase
 	
 ## Setup
